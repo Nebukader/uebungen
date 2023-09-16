@@ -1,6 +1,4 @@
 import java.text.DecimalFormat
-import kotlin.math.roundToInt
-import kotlin.math.roundToLong
 
 fun main(args: Array<String>) {
         println("Hi wie lautet dein Name ?")
